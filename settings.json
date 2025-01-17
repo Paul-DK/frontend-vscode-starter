@@ -1,0 +1,66 @@
+{
+    "workbench.iconTheme": "eq-material-theme-icons-palenight",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.formatOnPaste": true,
+    "files.autoSave": "afterDelay",
+    "editor.detectIndentation": false,
+    "editor.tabSize": 4,
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.colorTheme": "Material Theme Palenight",
+    "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": true,
+    "liveServer.settings.port": 5500,
+    "liveServer.settings.ignoreFiles": ["**/*.scss", "**/*.min.css"],
+    "liveServer.settings.wait": 500,
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/css"
+        },
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "/css"
+        }
+    ],
+    "liveSassCompile.settings.autoprefix": true,
+    "liveSassCompile.settings.generateMap": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "none",
+    "prettier.tabWidth": 4,
+    "prettier.useTabs": false,
+    "prettier.printWidth": 80,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "eslint.validate": ["javascript", "css", "html"],
+    "color-highlight.markRuler": true,
+    "color-highlight.markerType": "outline",
+    "indentRainbow.indentSize": 4,
+    "indentRainbow.colors": [
+        "rgba(224, 108, 117, 0.3)",
+        "rgba(229, 192, 123, 0.3)",
+        "rgba(152, 195, 121, 0.3)",
+        "rgba(86, 182, 194, 0.3)",
+        "rgba(97, 175, 239, 0.3)",
+        "rgba(198, 120, 221, 0.3)"
+    ],
+    "gutterpreview.showImagePreviewOnGutter": true,
+    "gutterpreview.imagePreviewMaxHeight": 200,
+    "gutterpreview.showUnderline": true,
+    "gutterpreview.sourceFolder": "images",
+    "emmet.extensionsPath": [
+        "C:/Users/pdbho/OneDrive/Documents/Personal Documents/Educational/global-emmet"
+    ]
+}
