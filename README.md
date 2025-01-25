@@ -1,6 +1,6 @@
 # 🚀 Frontend VS Code Starter
 
-Welcome to **Frontend VS Code Starter** – a fully customized **Visual Studio Code setup** tailored for **frontend development**! 🎨✨ This setup includes all the essential settings, extensions, and tweaks to **boost productivity** and create a seamless development experience.
+Welcome to my **Frontend VS Code Starter** – a fully customized **Visual Studio Code setup** tailored for **frontend development study**! 🎨✨ This setup includes all the essential settings, extensions, and tweaks to **boost learning and productivity** and create a seamless development experience.
 
 ---
 
