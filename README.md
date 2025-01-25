@@ -22,7 +22,7 @@ This repo contains the following configuration files:
 
 -   **`settings.json`** – Contains all the optimized settings for VS Code.
 -   **`extensions.txt`** – A list of recommended extensions for an enhanced frontend dev workflow.
--   **README.md** – This file! Explains how to set up everything.
+-   **`README.md`** – This file! Explains how to set up everything.
 
 ---
 
